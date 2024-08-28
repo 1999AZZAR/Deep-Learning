@@ -1,0 +1,4 @@
+tensorflow
+seaborn
+nltk
+pandas
